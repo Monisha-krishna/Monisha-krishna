@@ -6,7 +6,7 @@ Hi👋, I’m @Monisha-krishna a QA Engineer with 2 years of hands-on experience
 🌱 I’m currently learning:
 - Advance design patterns , Playright, Selenium
 - AI-integrated QA systems and test case optimization
-- Automation testing with Selenium & API testing using Postman
+- Automation testing with Selenium 
 
 🤝 I’m looking to collaborate on 
 - Test automation initiatives using Selenium, Cypress, or Playwright to build my scripting and framework design skills  
